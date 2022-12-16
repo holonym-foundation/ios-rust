@@ -15,7 +15,7 @@ This Basic work is based on the following articles, some pieces were takes from 
 ## Rust
 
 1. Make sure you have rustup `curl https://sh.rustup.rs -sSf | sh`
-2. Add libs and targets: `rustup target add aarch64-apple-ios-sim armv7s-apple-ios x86_64-apple-ios i386-apple-ios`
+2. Add libs and targets: `rustup target add aarch64-apple-ios x86_64-apple-ios`
 3. Add `cargo install cbindgen`.
 
 ## Xcode
